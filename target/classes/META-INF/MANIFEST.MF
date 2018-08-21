@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: yinian_data_analysis
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: liumeng
+Implementation-Vendor-Id: com.yinian
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/yinian_hive_
+ increase/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

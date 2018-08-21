@@ -1,0 +1,2 @@
+# yinian_hive_increase
+datax从mysql同步数据到hive
